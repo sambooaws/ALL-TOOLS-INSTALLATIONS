@@ -5,6 +5,9 @@ Nexus is one a artifact repository which helps to store your build outcomes.
 ### Prerequisites
 
 1. EC2 instance with java 
+  
+ yum install java-1.8.0-openjdk
+
 
 ### Implementation steps 
 
@@ -41,7 +44,7 @@ service nexus start
 
 Login nexus server from browser on port 8081
 
-http://<Nexus_server>:8081
+http://<public-ip>:8081
 
 Use default credentials to login 
 
