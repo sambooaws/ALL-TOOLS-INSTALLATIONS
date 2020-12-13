@@ -40,6 +40,12 @@ Login as a nexus user and start service
 ```sh
 su - nexus
 service nexus start
+
+
+
+
+go to sudo vi /etc/init.d/nexus if you got error 
+INSTALL4J_JAVA_HOME_OVERRIDE=/opt/jdk/
 ```
 
 Login nexus server from browser on port 8081
