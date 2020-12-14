@@ -5,7 +5,7 @@ JFrog Artifactory is a universal DevOps solution providing end-to-end automation
 
 ## Pre-requisites: 
 if you want to use pro version 
-go to jfrog site and register,,select T2 MEDUIM instance 
+go to jfrog site and register,,select T2 MEDUIM instance and see maha sir jfrog video
 
 if you want OSS open source follow this document:::::----
 1. An AWS T2.small EC2 instance (Linux)
