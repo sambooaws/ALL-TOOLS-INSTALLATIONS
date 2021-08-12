@@ -45,7 +45,7 @@ For Latest version of Artifactory Pro [download it from here](https://jfrog.com/
 1. Provide credentials 
    ```sh 
    username: admin
-   password: passwrod 
+   password: password 
    ```
 
 ## Not able to start Artifactory services?
