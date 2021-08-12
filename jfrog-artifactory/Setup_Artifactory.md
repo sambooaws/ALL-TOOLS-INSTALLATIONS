@@ -35,6 +35,7 @@ For Latest version of Artifactory Pro [download it from here](https://jfrog.com/
    ```sh
    cd /opt/jfrog-artifactory-oss-6.9.6/bin
    ./artifactory.sh start
+   netstat -tulpn   (to see which port is open)
    ```
 1. access artifactory from browser
    ```sh
